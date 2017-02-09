@@ -8,7 +8,16 @@
 .topline {
   float: right;
 }
-
-.navbar-right {
-  margin-right: -30px;
+#navBarSearchForm input[type=text]{
+  width:120px !important;
+margin-right: 30px;
+}
+.welcomecenter {
+  width: 50%;
+  text-align: center;
+  float: left;
+}
+.topiclist-right {
+  float: right;
+  padding-top: 20px;
 }
