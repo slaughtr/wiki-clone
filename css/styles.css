@@ -21,3 +21,19 @@ margin-right: 30px;
   float: right;
   padding-top: 20px;
 }
+
+.imgleftfloat {
+  float: left;
+  width: 150px;
+  margin-right: 10px;
+}
+
+.imgrightfloat {
+  float: right;
+  width: 150px;
+  margin-left: 10px;
+}
+
+.leftmeatcol {
+  background-color: ##cef2e0;
+}
