@@ -5,3 +5,10 @@
 .lefttabs {
   float:left;
 }
+.topline {
+  float: right;
+}
+
+.navbar-right {
+  margin-right: -30px;
+}
